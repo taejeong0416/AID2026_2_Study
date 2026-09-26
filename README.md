@@ -8,9 +8,9 @@ AID 엔지니어 트랙의 AI Agent 스터디 팀입니다.
 
 ## 🎯 스터디 목표
 
-- 목표 1
-- 목표 2
-- 목표 3
+- LLM에서 AI Agent로 이어지는 발전 과정과 AI Agent의 구성요소, 동작 방식, 설계 패턴을 이해한다
+- LangChain, LangGraph, AutoGen, CrewAI, LlamaIndex, AutoGPT로 AI Agent를 직접 구현하고 프레임워크별 차이를 비교한다
+- LangSmith로 에이전트를 디버깅하고 성능을 평가하는 방법을 익힌다
 
 ---
 
@@ -48,14 +48,14 @@ AID 엔지니어 트랙의 AI Agent 스터디 팀입니다.
 
 | 주차 | 학습 내용 | 진행 상태 |
 |---|---|---|
-| 1주차 | | ⬜ 예정 |
-| 2주차 | | ⬜ 예정 |
-| 3주차 | | ⬜ 예정 |
-| 4주차 | | ⬜ 예정 |
-| 5주차 | | ⬜ 예정 |
-| 6주차 | | ⬜ 예정 |
-| 7주차 | | ⬜ 예정 |
-| 8주차 | | ⬜ 예정 |
+| 1주차 | 1~2장: LLM의 탄생과 발전, 멀티모달 LLM, 모델 규모 확장, 오픈소스, 추론 모델, AI Agent의 등장 | ⬜ 예정 |
+| 2주차 | 3장: AI Agent의 정의, LLM·RAG·AI Agent 비교 | ⬜ 예정 |
+| 3주차 | 4장: AI Agent 구성요소, 동작 방식, 에이전트 유형 | ⬜ 예정 |
+| 4주차 | 5장: 반응, 계획, 도구 사용, 멀티에이전트, CoT 프롬프팅 패턴 | ⬜ 예정 |
+| 5주차 | 6~7장: AutoGen, LangChain, LangGraph, CrewAI, LlamaIndex, AutoGPT, Colab 환경 구성과 API 키 설정 | ⬜ 예정 |
+| 6주차 | 8장: LangChain, AutoGPT, AutoGen, LlamaIndex, CrewAI, LangGraph를 이용한 AI Agent 구현 | ⬜ 예정 |
+| 7주차 | 9장: LangSmith, 디버깅, LangGraph 연동, 성능 평가, 모니터링 | ⬜ 예정 |
+| 8주차 | (선택) 10~11장: M365 Copilot, M365 Copilot Agent, 일반 AI Agent와의 비교 | ⬜ 예정 |
 
 진행 상태 예시
 
